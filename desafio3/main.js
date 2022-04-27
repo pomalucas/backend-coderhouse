@@ -9,8 +9,7 @@ class contenedor {
         fs.promises.readFile('./'+ this.filename)
             .then(data =>{
                 const contenidoViejo = JSON.parse(data)
-                console.log(`Contenido Viejo: ${contenidoViejo}`)
-                console.log(obj.title)
+                console.log(contenidoViejo, "contenidoViejo");
                 let found = false;
                 for(var i = 0; i< contenidoViejo.length; i++){
                     if(contenidoViejo[i].title == obj.title){
