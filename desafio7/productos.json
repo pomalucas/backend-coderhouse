@@ -1,0 +1,100 @@
+[
+  {
+    "title": "escuadra",
+    "price": 350,
+    "id": 1
+  },
+  {
+    "title": "calculadora",
+    "price": 1800,
+    "id": 2
+  },
+  {
+    "title": "globo_terraqueo",
+    "price": 2550,
+    "id": 3
+  },
+  {
+    "title": "lapicera",
+    "price": 250,
+    "id": 4
+  },
+  {
+    "title": "lapicera2",
+    "price": 220,
+    "id": 5
+  },
+  {
+    "title": "lapicera4",
+    "price": 220,
+    "id": 6
+  },
+  {
+    "title": "birome",
+    "price": 175,
+    "id": 7
+  },
+  {
+    "title": "goma",
+    "price": 85,
+    "id": 8
+  },
+  {
+    "title": "tijera",
+    "price": "155",
+    "id": 9
+  },
+  {
+    "title": "nuevoPro",
+    "price": "420",
+    "id": 10
+  },
+  {
+    "title": "lapiceraPro",
+    "price": "50",
+    "thumbnail": "imagenPNG",
+    "id": 11
+  },
+  {
+    "title": "productoPrueba01",
+    "price": "222",
+    "thumbnail": "aaaa222",
+    "id": 12
+  },
+  {
+    "title": "reglaMapedV02",
+    "price": "300",
+    "thumbnail": "",
+    "id": 12
+  },
+  {
+    "title": "pegamentoLaGotita",
+    "price": "750",
+    "thumbnail": "",
+    "id": 13
+  },
+  {
+    "title": "superPegamentoWurth",
+    "price": "1250",
+    "thumbnail": "",
+    "id": 14
+  },
+  {
+    "title": "herramientaAleatoria",
+    "price": "55555",
+    "thumbnail": "",
+    "id": 15
+  },
+  {
+    "title": "probandoLoop1",
+    "price": "1234",
+    "thumbnail": "",
+    "id": 16
+  },
+  {
+    "title": "probandoLoop2",
+    "price": "5678",
+    "thumbnail": "",
+    "id": 17
+  }
+]
